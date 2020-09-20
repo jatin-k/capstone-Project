@@ -1,0 +1,27 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+main{
+	text-align: center;
+	background-color: #0f183b;
+	color: white;
+	padding: 1% 15% 5% 15%;
+	border: 40px solid #5ac8cc;
+	border-top: 0px;
+	font-family: 'Baloo Tammudu 2', cursive;
+}
+
+#btn {
+	background-color: #e69a37;
+	border-radius: 15px;
+	padding: 15px;
+	font-weight: 10px;
+}
+
+.siz {
+	height: 30px;
+	width: 200px;
+}
